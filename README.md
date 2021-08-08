@@ -4,7 +4,7 @@
 
 ## 🍵Asterism12
 ### About Me
-- Try to make life comfortable & interesting
+- Try to make life efficient & interesting
 
 <a href=#>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asterism12&layout=compact&hide_border=true">
